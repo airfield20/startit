@@ -1,0 +1,3 @@
+[submodule "startitsubmoduletest"]
+	path = startitsubmoduletest
+	url = https://github.com/airfield20/startitsubmoduletest
